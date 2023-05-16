@@ -1,3 +1,6 @@
+Vission : Our Vission is to create a complete Api Testing Project like this https://github.com/ebrahimhossaincse43/Student_Rest_API_Newman.
+and then we will clone this project for our own gitHub repo so that we add this project in our CV!!
+
 Testing Site : https://thetestingworldapi.com
 ## First-Tsak ##---complete with in 17/05/2023
 
