@@ -1,0 +1,6 @@
+Testing Site : https://thetestingworldapi.com
+## First-Tsak ##---complete with in 17/05/2023
+
+Nahidul Islam --> create a technicalskils branch and comple all the Api request with proper prerequesite,test plan for validation
+Mudassor vai----> create a studentsDetails branch and comple all the Api request with proper prerequesite,test plan for validation
+
